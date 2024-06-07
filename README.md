@@ -14,7 +14,7 @@
 9. [Results](#Results)
 10. [Conclusion](#Conclusion)
 11. [Knowledge Gained](#Knowledge-Gained)
-12. [Some associated Finance Terms Meaning](#Some-associated-Finance-Terms-Meaning)
+12. [Some Associated Finance Terms Meaning](#Some-Associated-Finance-Terms-Meaning)
 
 ## Introduction
 This is a Power BI project on personal finance analysis which tracks the client's monthly transactions for 37 months (2018-2021).
@@ -129,7 +129,7 @@ There is a significant growth in his income while there is a decline in savings 
 - How to create and sort the type according to Order No. 
 - How to analyse and visualise financial data.
 
-## Some associated Finance Terms Meaning
+## Some Associated Finance Terms Meaning
 - Salary: This refers to the money that someone earns for their work. It’s an employer payment to an employee in exchange for their services or labour.
 - Mutual Funds: An investment fund that pools money from many investors to purchase a diversified portfolio of investments such as bonds, stocks and other securities. 
 - Emergency Funds: A financial safety net for future mishaps, to protect one from unexpected expenses.
