@@ -72,7 +72,7 @@ The following Power BI features were incorporated:
   - Slicers showing the timeline selection (years and months)
 
 ## Results
-_Under the period in consideration_
+_Under the period of consideration_
 ![Dashboard](https://github.com/MilaarAdedayo/Personal_Finance_Analysis_by_Codebasics/assets/101608507/aedc6413-a40a-45d3-a54c-1a8e3814d280)
 - The analysis shows that his total earnings are ₹1.51M and his net worth is ₹325,500.
 - House rent (40.44%), Groceries (24.20%), EMIs (21.40%), Health (6.18%), and Leisure (4.10%) are his top 5 spending.
@@ -115,6 +115,6 @@ There is a significant growth in his income while there is a decline in savings 
 - How to create and sort the type according to Order No. 
 - How to analyse and visualise financial data.
 
-## Some Finance Terms Meaning
+## Associated Finance Terms Meaning
 Equated Monthly Installment (EMIs): A fixed payment borrowers make to lenders monthly. One can use them to repay various loans such as mortgages, car loans, and student loans.
 
