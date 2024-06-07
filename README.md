@@ -1,7 +1,20 @@
 # Personal_Finance_Analysis_by_Codebasics
 ![R](https://github.com/MilaarAdedayo/Personal_Finance_Analysis_by_Codebasics/assets/101608507/1e1ed3c2-1ad6-44e8-ae94-f65d0c690b5a)
-*I replicated Codebasics's Personal Finance Dashboard project. Here is what I gained*
+*I replicated Codebasics's Personal Finance Dashboard project. This README provides information and analysis of the project, here is what I gained.*
 
+## Table of Contents
+1. [Introduction](Introduction)
+2. [Purpose of the Project](Purpose-of-the-Project)
+3. [Why the Analysis was Performed](Why-the-Analysis-was-Performed)
+4. [Questions of Analysis/Problem Statement](Questions-of-Analysis/Problem-Statement)
+5. [Technologies Used](Technologies-Used)
+6. [Data Types and Some Finance Terms](Data-Types-and-Some-Finance-Terms)
+7. [Skills/Concept Demonstrated](Skills/Concept-Demonstrated)
+8. [Method of Analysis](Method-of-Analysis)
+9. [Results](Results)
+10. [Conclusion](Conclusion)
+11. [Knowledge Gained](Knowledge-Gained)
+12. [Associated Finance Terms Meaning](Associated-Finance-Terms-Meaning)
 
 ## Introduction
 This is a Power BI project on personal finance analysis which tracks the client's monthly transactions for 37 months (2018-2021).
