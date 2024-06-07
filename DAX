@@ -1,1 +1,30 @@
+--Name of dashboard
+Title = " My Finance Dashboard"
+--Expense percentage across the years
+Expense % = DIVIDE([Total Expense],[Total Income])
+--Savings percentage across the years
+Savings % = DIVIDE([Total Saving],[Total Income])
+--Check the savings target of 25%
+Savings target = 0.25
+--Total expenses across the years
+Total Expense = CALCULATE(SUM(FinData[Value]),FinData[Type]="Expense")
+--Total income across the years
+Total Income = CALCULATE(SUM(FinData[Value]),FinData[Type]="Income")
+--Total savings across the years
+Total Saving = CALCULATE(SUM(FinData[Value]),FinData[Type]="Savings")
+--Total Earnings across the years
+Values = SUM(FinData[Value])
+--Percentage Change in Income month over month
+Income Change MoM % = DIVIDE([Total Income],[Income LM])
+--Last Month Total Income 
+Income LM = CALCULATE([Total Income],DATEADD(FinData[Date],-1,MONTH))
+--Running Total Formula
+Cumulative Net Worth = 
+CALCULATE (
+    [Total Saving],
+    FILTER (
+        ALL ( FinData[Date] ),
+        FinData[Date] <= MAX ( (FinData[Date] ) )
+    )
+)
 
