@@ -56,14 +56,15 @@ The following Power BI features were incorporated:
   - Filters
   - Visuals
   - Tooltips
+  - Table
 
 ## Method of Analysis
 1. Import Findata from Excel to Power BI
 ![Excel](https://github.com/MilaarAdedayo/Personal_Finance_Analysis_by_Codebasics/assets/101608507/a888142f-dcd1-4436-841e-6f5fc43e6bfd)
 2. Data Transformation performed via Power Query Editor:
   - Unpivot Date - Value column
-  - Change type of Date column to 'Date'
-  - Change type of value column to 'Fixed Decimal Number'
+  - Change the type of Date column to 'Date'
+  - Change the type of value column to 'Fixed Decimal Number'
   - Add Column Year and change type to 'Text'
   - Change date format from 01 January 2018 to Jan 18
   - Close & Apply.
@@ -129,5 +130,10 @@ There is a significant growth in his income while there is a decline in savings 
 - How to analyse and visualise financial data.
 
 ## Associated Finance Terms Meaning
+Salary: This refers to the money that someone earns for their work. It’s an employer payment to an employee in exchange for their services or labour.
+Mutual Funds:
+Emergency Funds:
+Fixed Deposit:
+Liquid Cash:
 Equated Monthly Installment (EMIs): A fixed payment borrowers make to lenders monthly. One can use them to repay various loans such as mortgages, car loans, and student loans.
 
