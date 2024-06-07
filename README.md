@@ -131,9 +131,9 @@ There is a significant growth in his income while there is a decline in savings 
 
 ## Associated Finance Terms Meaning
 Salary: This refers to the money that someone earns for their work. It’s an employer payment to an employee in exchange for their services or labour.
-Mutual Funds: An investment fund that pools money from many investors to purchase investments such as bonds, stocks and other securities. 
-Emergency Funds:
-Fixed Deposit:
-Liquid Cash:
+Mutual Funds: An investment fund that pools money from many investors to purchase a diversified portfolio of investments such as bonds, stocks and other securities. 
+Emergency Funds: A financial safety net for future mishaps, to protect one from unexpected expenses.
+Fixed Deposit: A financial instrument that offers a higher rate of interest than a regular savings account, for a fixed period.
+Liquid Cash: usually cash on hand, are assets or cash that can easily be converted into cash without losing much value.
 Equated Monthly Installment (EMIs): A fixed payment borrowers make to lenders monthly. One can use them to repay various loans such as mortgages, car loans, and student loans.
 
