@@ -131,7 +131,7 @@ There is a significant growth in his income while there is a decline in savings 
 
 ## Associated Finance Terms Meaning
 Salary: This refers to the money that someone earns for their work. It’s an employer payment to an employee in exchange for their services or labour.
-Mutual Funds:
+Mutual Funds: An investment fund that pools money from many investors to purchase investments such as bonds, stocks and other securities. 
 Emergency Funds:
 Fixed Deposit:
 Liquid Cash:
